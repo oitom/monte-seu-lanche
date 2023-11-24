@@ -1,2 +1,2 @@
-# monte-seu-lanche
+# Monte seu lanche
 App Monte seu lanche em VueJs
